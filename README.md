@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **harounekessal89@gmail.com**
-<img align="right" alt="GIF" src="https://github.com/HarouneKESSAL/HarouneKESSAL/HASN.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/HarouneKESSAL/HarouneKESSAL/blob/main/HASN.gif" width="500"/>
 <div> <a href="https://github.com/HarouneKESSAL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:harounekessal89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
