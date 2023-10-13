@@ -3,13 +3,14 @@
 <h3 align="left">A passionate full stack developer from Algeria</h3>
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
-- 👯 &nbsp; I’m looking to collaborate on **open source**
-- 🌱 &nbsp; Enthusiast in Cybersecurity 
-- 🤝 &nbsp; I’m looking for help with **finding a new project**
-- 🌱 &nbsp; I’m currently learning **MERN**
-- 💬 &nbsp; Ask me about **Laravel**
-- 📫 &nbsp; How to reach me **harounekessal89@gmail.com**
-- ⚡ &nbsp; Fun fact **I love to work on blender**
+<br>
+- 👯  I’m looking to collaborate on **open source** <br>
+- 🌱  Enthusiast in Cybersecurity <br>
+- 🤝  I’m looking for help with **finding a new project** <br>
+- 🌱  I’m currently learning **MERN** <br>
+- 💬  Ask me about **Laravel** <br>
+- 📫  How to reach me **harounekessal89@gmail.com** <br>
+- ⚡  Fun fact **I love to work on blender** <br>
 
 <br>
 
