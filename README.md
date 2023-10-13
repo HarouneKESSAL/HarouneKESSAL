@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Haroune KESSAL</h1>
-<h3 align="left">Full-stack dev</h3>
+<img align="right" alt="GIF" src="https://github.com/HarouneKESSAL/HarouneKESSAL/blob/main/assets/HASN.gif" width="500"/>
+<h3 align="left">A passionate full stack developer from Algeria</h3>
+
+<h3> 👨🏻‍💻 About Me </h3>
 - 👯 I’m looking to collaborate on **open source**
 - 🌱  Enthusiast in Cybersecurity 
 - 🤝 I’m looking for help with **finding a new project**
@@ -7,13 +10,10 @@
 - 💬 Ask me about **Laravel**
 - 📫 How to reach me **harounekessal89@gmail.com**
 - ⚡ Fun fact **I love to work on blender**
-<img align="right" alt="GIF" src="https://github.com/HarouneKESSAL/HarouneKESSAL/blob/main/assets/HASN.gif" width="500"/>
-<div> 
 
-<a href="https://github.com/HarouneKESSAL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-<a href = "mailto:harounekessal89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Teck Stack:</h3>
+
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
@@ -42,9 +42,18 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
 </p>
+<br>
+<h3 align="left">Connect with me:</h3>
 
-<div> <a href="https://github.com/HarouneKESSAL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarouneKESSAL&layout=compact&theme=blueberry" alt=HarouneKESSAL />
+<p align="center">
+&nbsp; <a href="https://twitter.com/bloopdex" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/bloopdex/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/mohammedrami-benhamida/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:bloopdex@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+
+<h3 align="left">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarouneKESSAL&layout=compact&theme=blueberry" alt=HarouneKESSAL />
 
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarouneKESSAL&theme=blueberry" alt="HarouneKESSAL" /></p>
