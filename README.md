@@ -47,4 +47,4 @@
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarouneKESSAL&layout=compact&theme=blueberry" alt=HarouneKESSAL />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarouneKESSAL&theme=blueberry" alt="HarouneKESSAL" /></p>
+<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarouneKESSAL&theme=blueberry" alt="HarouneKESSAL" /></p>
