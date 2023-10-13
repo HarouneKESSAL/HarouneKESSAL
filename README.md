@@ -11,7 +11,6 @@
 - 📫 &nbsp; How to reach me **harounekessal89@gmail.com**
 - ⚡ &nbsp; Fun fact **I love to work on blender**
 
-
 <br>
 
 <p align="left">
@@ -42,12 +41,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
 </p>
+
 <br>
 
-
-
-<h3 align="left">Stars</h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarouneKESSAL&layout=compact&theme=blueberry" alt=HarouneKESSAL />
+
 
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarouneKESSAL&theme=blueberry" alt="HarouneKESSAL" /></p>
 
