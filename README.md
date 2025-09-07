@@ -7,24 +7,11 @@
 - 👯 &nbsp; I’m looking to collaborate on <strong>open source</strong> <br>
 - 🌱 &nbsp; Enthusiast in <strong>Cybersecurity</strong> <br>
 - 🤝 &nbsp; I’m looking for help with <strong>finding a new project</strong> <br>
-- 🤔 &nbsp; I’m currently learning <strong>MERN</strong> <br>
 - 💬 &nbsp; Ask me about <strong>Laravel</strong> <br>
 - 🍛 &nbsp; One cannot think well, love well, sleep well if one has not dined well  <br>
 - ⚡ &nbsp; Fun fact <strong>I love to work on blender</strong> <br>
 
 <br>
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-</p>
-
 <br>
 <br>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarouneKESSAL&layout=compact&theme=blueberry" alt=HarouneKESSAL />
