@@ -1,31 +1,26 @@
-<h1 align="left">Hi 👋, I'm Haroune KESSAL</h1>
-<img align="right" alt="GIF" src="https://github.com/HarouneKESSAL/HarouneKESSAL/blob/main/assets/HASN.gif" width="500"/>
-<h3 align="left">A passionate full stack developer from Algeria</h3>
-<br>
-<h3> 👨🏻‍💻 About Me </h3>
-<br>
-- 👯 &nbsp; I’m looking to collaborate on <strong>open source</strong> <br>
-- 🌱 &nbsp; Enthusiast in <strong>Cybersecurity</strong> <br>
-- 🤝 &nbsp; I’m looking for help with <strong>finding a new project</strong> <br>
-- 💬 &nbsp; Ask me about <strong>Laravel</strong> <br>
-- 🍛 &nbsp; One cannot think well, love well, sleep well if one has not dined well  <br>
-- ⚡ &nbsp; Fun fact <strong>I love to work on blender</strong> <br>
+### Hi, I'm Haroune 👋
 
-<br>
-<br>
-<br>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarouneKESSAL&layout=compact&theme=blueberry" alt=HarouneKESSAL />
-<br>
-<br>
-<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarouneKESSAL&theme=blueberry" alt="HarouneKESSAL" /></p>
+Software engineer from Algeria. I build backend systems that run real operations, and real-time AR and AI projects on the side.
 
+- 🚚 **CTO at NearDelivery**: architecture and delivery of a nationwide parcel-logistics platform (Laravel, PostgreSQL, Redis, Next.js, Kubernetes). Most of that work lives on [GitLab](https://gitlab.com/HarouneKESSAL).
+- 🎓 Master's in Intelligent Computer Systems, USTHB
 
+### Featured projects
 
-<br><br><br><br><br><br><br><br><br>
-<h3 align="left">Connect with me:</h3>
+| Project | What it is | Stack |
+|---|---|---|
+| [**FrameForge**](https://github.com/HarouneKESSAL/frameforge) | Eyewear virtual try-on: turns photos of real frames into 3D models, plus a browser AR try-on retailers embed with one script tag | Next.js · MediaPipe · Three.js · FastAPI · PostgreSQL · PyTorch |
+| [**Lipstick Try-On**](https://github.com/HarouneKESSAL/lipstick-try-on) · [live demo](https://lipstick.tryon.kessaldev.com) | Real-time AR lipstick in the browser, with occlusion handling and lighting matching, at up to 30 fps on mobile | TypeScript · MediaPipe · Three.js/GLSL · Cloudflare Workers |
+| [**Tajweed Modular Assessment**](https://github.com/HarouneKESSAL/tajweed-modular-assessment) | Master's research: AI assessment of Qur'anic recitation rules from audio | PyTorch · Whisper · FastAPI · Next.js |
 
-<div align="left">
-<a href="https://www.instagram.com/haroune.0/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-<a href="https://www.linkedin.com/in/harounekessal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="mailto:harounekessal89@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</div>
+### Stack
+
+**Backend:** Laravel · Spring Boot · .NET Core · FastAPI · Node.js
+**Data:** PostgreSQL · MySQL · Redis · S3/MinIO
+**DevOps:** Docker · Kubernetes · GitLab CI/CD · GitHub Actions · Cloudflare
+**Frontend:** Next.js · React · Three.js/WebGL
+**AI & vision:** PyTorch · Whisper · HuggingFace · MediaPipe
+
+### Contact
+
+📫 harounekessal89@gmail.com
